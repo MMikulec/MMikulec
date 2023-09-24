@@ -42,7 +42,7 @@ Welcome to my GitHub profile! I'm a passionate Full-Stack Developer from Slovaki
 
 ## 📫 How to Reach Me
 
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/marek-mikulec-07b332264/)
+- LinkedIn: [Marek Mikulec](https://www.linkedin.com/in/marek-mikulec-07b332264/)
 - Email: [marek.3283s@passmail.net](mailto:marek.3283s@passmail.net)
 
 Feel free to take a look at my projects and don't forget to star ⭐ your favorites! Thank you! 🙏
