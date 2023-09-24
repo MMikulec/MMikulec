@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 Welcome to my GitHub profile! I'm a passionate Full-Stack Developer from Slovakia, specializing in crafting efficient and scalable web solutions.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MMikulec&show_icons=true&theme=tokyonight)
 
 ## 🛠️ Technologies & Tools
 
