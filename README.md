@@ -14,9 +14,6 @@ Here are some ideas to get you started:
 -->
 # Hello there 👋, I'm Marek Mikulec
 
-Welcome to my GitHub profile! I'm a passionate Full-Stack Developer from Slovakia, specializing in crafting efficient and scalable web solutions.
-
-
 ## 🛠️ Technologies & Tools
 
 - **Backend**: Python
@@ -26,16 +23,10 @@ Welcome to my GitHub profile! I'm a passionate Full-Stack Developer from Slovaki
 
 ## 📈 What I'm Focused On
 
-
 ## 💼 Experience
 
-
 ## 📝 Latest Articles
-
--
 
 ## 📫 How to Reach Me
 
 - LinkedIn: [linkedin.com/in/marek-mikulec-07b332264/](https://www.linkedin.com/in/marek-mikulec-07b332264/)
-- Email: [marek.3283s@passmail.net](mailto:marek.3283s@passmail.net)
-
