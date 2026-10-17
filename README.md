@@ -26,7 +26,3 @@ Here are some ideas to get you started:
 ## 💼 Experience
 
 ## 📝 Latest Articles
-
-## 📫 How to Reach Me
-
-- LinkedIn: [linkedin.com/in/marek-mikulec-07b332264/](https://www.linkedin.com/in/marek-mikulec-07b332264/)
